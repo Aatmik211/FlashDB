@@ -18,10 +18,10 @@ class FlashDB(object):
 
 	Example:
 	  >>> db = FlashDB(".db")
-	  >>> db.set(key="name", value="John")
+	  >>> db.set(key="name", value="Aatmik")
 	  >>> name = db.get(key="name")
 	  >>> print(name)
-	  John
+	  Aatmik
 	  >>> db.set(key="fav_col", value="Green")
 	  >>> fav_col = db.get(key="fav_col")
 	  >>> print(fav_col)
