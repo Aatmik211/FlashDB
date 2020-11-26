@@ -1,5 +1,5 @@
 # FlashDB
-Simple NoSQL key-value oriented database
+Simple NoSQL Key-Value Oriented Database
 
 ## USE
 ```python
