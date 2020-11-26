@@ -1,7 +1,18 @@
 # FlashDB
 Simple NoSQL Key-Value Oriented Database
+FlashDB database files end with a '.db' extension.
+Currently, FlashDB has 4 functions:
+  set - saves a value to the database
+  get - retrieves a value from the database
+  delete - deletes a value from the database
+  reset - resets the database, i.e., erases all data from it
 
-## USE
+## USE:
+  new_flashdb_instance = FlashDB("location/to/database/file/.db")
+  new_flashdb_instance.set(key, value)
+  new_flashdb_instance.get(key)
+
+## EXAMPLE
 ```python
 >>> db = FlashDB(".db")
 >>> db.set(key="name", value="Aatmik")
