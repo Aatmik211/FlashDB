@@ -3,7 +3,7 @@ import os
 
 class FlashDB(object):
 	"""
-	FlashDB is a simple local non-relational database management system.
+	FlashDB is a simple local NoSQL key-value oriented database management system.
 	FlashDB database files end with a '.db' extension.
 	Currently, FlashDB has 4 functions:
 	  set - saves a value to the database
