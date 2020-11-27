@@ -17,7 +17,7 @@ new_flashdb_instance.set(key, value)
 new_flashdb_instance.get(key)
 ```
 
-## EXAMPLE
+## EXAMPLE:
 ```python
 >>> db = FlashDB(".db")
 >>> db.set(key="name", value="Aatmik")
