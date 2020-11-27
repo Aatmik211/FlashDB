@@ -1,5 +1,5 @@
 # FlashDB
-FlashDB is a simple local NoSQL key-value oriented database.
+FlashDB is a simple local NoSQL key-value oriented database management system.
 FlashDB database files end with a '.db' extension.
 Currently, FlashDB has 4 functions:
 
