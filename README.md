@@ -1,5 +1,5 @@
 # FlashDB
-Simple NoSQL Key-Value Oriented Database
+Simple NoSQL Key-Value Oriented Database.
 FlashDB database files end with a '.db' extension.
 Currently, FlashDB has 4 functions:
   set - saves a value to the database
